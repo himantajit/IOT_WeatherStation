@@ -32,7 +32,3 @@ This project demonstrates how to use an ESP8266 to interface with sensors and di
 1. **Upload Code**: Use the Arduino IDE to upload the code to your ESP8266.
 2. **Monitor Output**: Check the OLED display for real-time sensor data.
 3. **View Data**: Log in to ThingSpeak to view the uploaded sensor data.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
