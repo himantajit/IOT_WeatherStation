@@ -22,8 +22,8 @@ DHT dht(DHTPIN, DHTTYPE);
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 // WiFi
-const char* ssid = "Ohayooo";
-const char* password = "09876543";
+const char* ssid = "Wifi_name";
+const char* password = "Wifi_password";
 
 // ThingSpeak
 unsigned long myChannelNumber = 2605084;
