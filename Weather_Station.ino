@@ -26,8 +26,8 @@ const char* ssid = "Wifi_name";
 const char* password = "Wifi_password";
 
 // ThingSpeak
-unsigned long myChannelNumber = 2605084;
-const char* myWriteAPIKey = "9J5TIMDGS32WDRTP";
+unsigned long myChannelNumber = [CH NO];
+const char* myWriteAPIKey = "API key";
 
 WiFiClient client;
 
